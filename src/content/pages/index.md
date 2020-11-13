@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Jessica Viti
+tagline: Recent Northwestern Grad, Broadcast Reporter
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: My Story
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Hi. Here is a blurb about why Jess Viti is the best broadcast reporter in the !#@$@#! industry!
