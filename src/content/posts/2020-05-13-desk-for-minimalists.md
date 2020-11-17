@@ -4,48 +4,48 @@ title: WKOW 27 News
 slug: /wkow-27
 date: 2020-10-07 10:08
 description: Jessica Viti's Coverage at WKOW 27 News.
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/wkow-blue-generic.jpg
 ---
 For Medill, we have to complete an internship for credit through a program called Journalism Residency in order to graduate. I completed my JR at WKOW 27 News, the ABC-affiliate in Madison, Wisconsin. By week 3, I already began turning packages for the weekend news, and by week 5, I was turning packages for the 5 pm shows. From writing web stories to VOs and VOSOTs to putting together packages, I’ve worked my way up in just a short amount of time.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+## Election Coverage
 
-## It doesn't look so shiny to me.
+[Large, post-election gatherings cause COVID concern](https://wkow.com/2020/11/08/large-post-election-gatherings-cause-covid-concern/)
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+[Wisconsin reacts to VP-elect Kamala Harris breaking ](https://wkow.com/2020/11/08/wisconsin-reacts-to-vp-elect-kamala-harris-breaking-barriers/)
 
-![]()
+[Local organizations encourage Black community to get out the vote](https://wkow.com/2020/10/29/local-organizations-encourage-black-community-to-get-out-the-vote/)
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+[Student groups work to encourage younge people to vote](https://wkow.com/2020/10/24/student-groups-work-to-encourage-young-people-to-vote/)
 
-### Daylight and everything.
+![City of Madison "at capacity" with Poll Workers](/assets/pollworkers_standup.png "City of Madison \"at capacity\" with Poll Workers")
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+[City of Madison "at capacity" with Poll Workers](https://www.youtube.com/watch?v=fo8hDgOGTT8 'City of Madison "at capacity" with Poll Workers')
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+## Crime Coverage
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+[Neighbors want answers after shooting on Madison's west side](https://wkow.com/2020/11/01/neighbors-want-to-know-more-after-nearby-shooting-on-madisons-west-side/)
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+## COVID-19 Coverage
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+[One man's lifesaving call highlights importance of check-ups, even during pandemic](https://wkow.com/2020/11/06/one-mans-lifesaving-call-highlights-importance-of-check-ups-even-during-pandemic/)
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+[Over 100 hospitilization, 5 pediatric patients in Dane County](https://wkow.com/2020/10/23/over-100-hospitalizations-5-pediatric-patients-in-dane-county/)
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+[Long wait times for COVID-19 testing continue at Alliant Energy Center](https://wkow.com/2020/10/15/long-wait-times-for-covid-19-testing-continue-at-alliant-energy-center/)
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
+[Madison hospitals give updates on staffing, bed capacity](https://wkow.com/2020/10/21/madison-hospitals-give-updates-on-staffing-bed-capacity/)
 
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
+## Fun & Feature Pieces
 
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
+[Beloit WWII veteran celebrates his 100th birthday](https://wkow.com/2020/11/12/beloit-wwii-veteran-celebrates-his-100th-birthday/)
 
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
+[Communities find unique ways to celebrate Halloween](https://wkow.com/2020/10/31/communities-find-unique-ways-to-celebrate-halloween/)
 
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
+[Pumpkin patches provide escape from the pandemic](https://wkow.com/2020/10/18/pumpkin-patches-provide-escape-from-the-pandemic/)
 
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+[Madison nonprofit Mount Everest climb to raise money, awareness for trafficking victims postponed](https://wkow.com/2020/10/25/madison-nonprofit-mount-everest-climb-to-raise-money-awareness-for-trafficking-victims-postponed/)
+
+[Halloween businesses not hurt by pandemic](https://wkow.com/2020/10/11/halloween-businesses-not-hurt-by-pandemic/)
+
+[UW grad student brings physics, art to virtual learning](https://wkow.com/2020/10/17/uw-grad-student-brings-physics-art-to-virtual-learning/)
