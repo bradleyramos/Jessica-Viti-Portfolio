@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Jessica Viti
-tagline: Recent Northwestern Grad, Broadcast Reporter
+tagline: Broadcast Journalist at the Medill School of Journalism
 featuredImage: /assets/jess-cover.jpeg
 cta:
   ctaText: My Story
