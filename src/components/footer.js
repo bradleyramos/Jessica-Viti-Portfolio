@@ -5,7 +5,7 @@ import { RiHeart2Line } from "react-icons/ri";
 const Footer = () => (
   <footer className="site-footer">
     <div className="container">
-      <p>Just a work in progress. Let Brad know what you would like.</p>
+      <p>Thanks for taking a look at my site! Check out the contact page to get in touch.</p>
     </div>
   </footer>
 )
