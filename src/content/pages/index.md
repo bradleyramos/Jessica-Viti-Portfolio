@@ -8,4 +8,4 @@ cta:
   ctaText: My Story
   ctaLink: /about
 ---
-Hi, my name is Jess! I'm a recent graduate from the Medill School of Journalism at Northwestern University, where I studied journalism (with a focus in broadcast), political science and integrated marketing communications. My expansive skill set and global experience will lend itself well to a fast­-paced newsroom that values diverse perspectives and a commitment to dynamic storytelling.
+Hi, my name is Jessica! I recently graduated from Northwestern University, where I studied journalism, political science and integrated marketing communications. My expansive skill set and global experience will lend itself well to a fast-­paced newsroom that values diverse perspectives and a commitment to dynamic storytelling.
