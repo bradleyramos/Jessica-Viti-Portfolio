@@ -248,6 +248,10 @@ article img {
 
 .blog-post {
 	.featured-image {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		max-width: 80%;
 		min-height: 50vh;
 		border-radius: 12px;
 	}

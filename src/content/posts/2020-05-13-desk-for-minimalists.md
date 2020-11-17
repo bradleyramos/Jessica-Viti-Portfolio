@@ -18,7 +18,7 @@ For Medill, we have to complete an internship for credit through a program calle
 
 [Student groups work to encourage younge people to vote](https://wkow.com/2020/10/24/student-groups-work-to-encourage-young-people-to-vote/)
 
-![City of Madison "at capacity" with Poll Workers](/assets/pollworkers_standup.png "City of Madison \"at capacity\" with Poll Workers")
+[![City of Madison "at capacity" with Poll Workers](/assets/pollworkers_standup.png "City of Madison \"at capacity\" with Poll Workers")](https://www.youtube.com/watch?v=fo8hDgOGTT8 'City of Madison "at capacity" with Poll Workers')
 
 [City of Madison "at capacity" with Poll Workers](https://www.youtube.com/watch?v=fo8hDgOGTT8 'City of Madison "at capacity" with Poll Workers')
 
