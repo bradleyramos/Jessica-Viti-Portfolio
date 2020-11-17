@@ -1,14 +1,12 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
+title: WKOW 27 News
+slug: /wkow-27
+date: 2020-10-07 10:08
+description: Jessica Viti's Coverage at WKOW 27 News.
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
-
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+For Medill, we have to complete an internship for credit through a program called Journalism Residency in order to graduate. I completed my JR at WKOW 27 News, the ABC-affiliate in Madison, Wisconsin. By week 3, I already began turning packages for the weekend news, and by week 5, I was turning packages for the 5 pm shows. From writing web stories to VOs and VOSOTs to putting together packages, I’ve worked my way up in just a short amount of time.
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
