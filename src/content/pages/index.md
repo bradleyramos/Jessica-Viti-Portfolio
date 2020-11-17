@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Jessica Viti
-tagline: Broadcast Journalist at the Medill School of Journalism
+tagline: Broadcast Journalist @ Medill School of Journalism
 featuredImage: /assets/jess-cover.jpeg
 cta:
   ctaText: My Story
