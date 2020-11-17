@@ -4,6 +4,6 @@ title: Demo Reel
 slug: /demo-reel
 date: 2020-11-17 12:45
 description: Jessica Viti's Demo Reel
-featuredImage: /assets/57240586_2753722731335015_5876306101846147072_o.jpg
+featuredImage: /assets/screen-shot-2020-11-17-at-4.02.43-pm.png
 ---
-{Insert Demo Reel Here}
+View Demo Reel [here.](https://www.youtube.com/watch?v=pQHTW9CgEKE&t=7s&ab_channel=JessicaViti)
