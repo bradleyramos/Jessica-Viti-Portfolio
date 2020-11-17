@@ -3,8 +3,8 @@ template: blog-post
 title: "Medill Global: Video Reporting in Cuba"
 slug: /visual-reporting-in-cuba
 date: 2020-05-13 09:19
-description: "Medill Global: Video Reporting in Cuba"
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
+description: "Medill Global: Visual Reporting in Cuba"
+featuredImage: /assets/img_4240.jpg
 ---
 HAVANA, Cuba– Over spring break, I was lucky enough to travel to and report in Havana, Cuba with Medill. Learning about media production and consumption in a communist country was a valuable opportunity. In addition, being able to experience international reporting at such an early stage in my career was very challenging yet exciting. It forced me to use my Spanish skills. Luckily, I also had access to a translator who facilitated the interview process, as well as the logging process.
 

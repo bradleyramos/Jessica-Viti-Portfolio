@@ -2,11 +2,11 @@
 template: blog-post
 title: WNUR Sports
 slug: /wnur-sports
-date: 2020-05-11 08:40
+date: 2019-01-08 08:40
 description: Jessica Viti's contribution to WNUR Sports
-featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
+featuredImage: /assets/wnur-sports.jpg
 ---
-As a member of WNUR Sports, I contribute to podcasts, manage and produce content for social media and I assist in engineering broadcasts. My main contributions came during the revenue sport seasons.
+As a member of WNUR Sports, I contributed to podcasts. I also managed and produced content for social media and assisted in engineering broadcasts. My main contributions came during the revenue sport seasons.
 
 [Non-Rev Recap: January 3-January8](https://wnursports.com/2019/01/09/non-rev-recap-january-3-january-8/)
 
