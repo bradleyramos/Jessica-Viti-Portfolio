@@ -2,7 +2,7 @@
 template: blog-post
 title: "Medill Global: Video Reporting in Cuba"
 slug: /visual-reporting-in-cuba
-date: 2020-05-13 09:19
+date: 2019-03-30 09:19
 description: "Medill Global: Visual Reporting in Cuba"
 featuredImage: /assets/img_4240.jpg
 ---
@@ -12,6 +12,6 @@ I found inspiration in the Cubans’ love of sports, specifically boxing, for on
 
 <https://spark.adobe.com/page/lYxiuOYcF1tnc/>
 
-The other story I did was more of a travel-blog piece. This is becoming a very popular style nowadays. We found tourists and Havana natives to give us the scoop on Old Havana, or Habana Vieja from their unique perspectives.
+The other story I did was more of a travel-blog piece. This is becoming a very popular style nowadays. We found tourists and Havana natives to give us the scoop on Old Havana, or Habana Vieja, from their unique perspectives.
 
 <https://spark.adobe.com/page/1T6c3DEBsYoWu/>
