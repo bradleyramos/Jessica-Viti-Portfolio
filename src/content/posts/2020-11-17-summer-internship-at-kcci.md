@@ -12,7 +12,7 @@ From storm chasing to breaking news, I got to experience the newsgathering proce
 
 I created my own versions of the stories we covered. The internship allowed me to practice writing to video, editing using Adobe Premiere and voicing my stories. Here are some examples of the work I produced:
 
-[Mollie Tibbett's Father Speaks on HEr Disappearance](https://youtu.be/vlzHegZyk_4)
+[Mollie Tibbett's Father Speaks on Her Disappearance](https://youtu.be/vlzHegZyk_4)
 
 [Billboard Battle](https://youtu.be/fk-Qvdenc7M)
 
