@@ -2,7 +2,7 @@
 template: blog-post
 title: Summer Internship at KCCI
 slug: /summer-internship-at-kcci
-date: 2019-01-03 16:02
+date: 2018-09-08 16:02
 description: Jessica Viti summer internship at KCCI
 featuredImage: /assets/kcci.png
 ---
