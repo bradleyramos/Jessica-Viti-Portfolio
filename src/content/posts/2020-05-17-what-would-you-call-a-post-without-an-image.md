@@ -4,7 +4,7 @@ title: WNUR Sports
 slug: /wnur-sports
 date: 2019-01-08 08:40
 description: Jessica Viti's contribution to WNUR Sports
-featuredImage: /assets/wnur-sports.jpg
+featuredImage: /assets/wnursports.png
 ---
 As a member of WNUR Sports, I contributed to podcasts. I also managed and produced content for social media and assisted in engineering broadcasts. My main contributions came during the revenue sport seasons.
 

@@ -4,7 +4,7 @@ title: Northwestern News Network
 slug: /northwestern-news-network
 date: 2019-07-10T00:00:00.000Z
 description: Jessica Viti's contribution to Northwestern News Network
-featuredImage: /assets/img_5452.jpg
+featuredImage: /assets/img_5452.png
 ---
 I have been a part of Northwestern’s student-run news network since my freshman year. This organization gives me the opportunity to practice live shots, on-air work, behind-the-camera work and newsgathering. Being able to shoot, write and edit my own stories has allowed me to foster my broadcast skills, both in front of and behind the camera. I contribute to both our general newscast, Northwestern News Report, and our sports show, Sports Night. Here is some of my work:
 
@@ -14,7 +14,7 @@ Here, I give an update from Welsh-Ryan Arena on the NCAA tournaments amidst the 
 [![Sportsnight 1/30/20](/assets/SN-1-30-20.png "Sportsnight 1/30/20")](https://youtu.be/hHEEXuBq754 'Sportsnight 1/30/20')
 Anchoring Sports Night’s January 30, 2020 show in which we pay homage to Kobe Bryant alongside the rest of the sports world.
 ---
-[![A Student Advisor’s Double Life](/assets/SA-double-life.png "Package that appeared in Sports Night’s January 23rd show.")](https://youtu.be/le9YY9h1pZk 'A Student Advisor’s Double Life')
+[![A Student Advisor’s Double Life](/assets/SA-doublelife.png "Package that appeared in Sports Night’s January 23rd show.")](https://youtu.be/le9YY9h1pZk 'A Student Advisor’s Double Life')
 
 ---
 [![Sports Night 5/9/19](/assets/SN-5-9-19.png "Sports Night 5/9/19")](https://youtu.be/qHUow_T9d8s 'Sports Night 5/9/19')
