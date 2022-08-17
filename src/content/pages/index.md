@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jessica Viti
 tagline: Multi-Platform Producer
-featuredImage: /assets/13_Headshot.jpg
+featuredImage: /assets/13_Headshot.png
 cta:
   ctaText: My Story
   ctaLink: /about
