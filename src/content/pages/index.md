@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jessica Viti
 tagline: Recent Medill Grad, Broadcast Journalist
-featuredImage: /assets/57240586_2753722731335015_5876306101846147072_o.jpg
+featuredImage: /assets/13_headshot.png
 cta:
   ctaText: My Story
   ctaLink: /about
