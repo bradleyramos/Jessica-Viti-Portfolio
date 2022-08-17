@@ -10,16 +10,23 @@ $breakpoint-xl: 1200px;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
-  --primary-color: #E5989B;
-  --header-bg: #E5989B;
+  --primary-color: #255C99;
+  --header-bg: #7EA3CC;
+// --primary-color: #E5989B;
+//--header-bg: #E5989B;
 
-  --home-link-color: #B5838D;
+  --home-link-color: #255C99;
   --home-link-hover-color:  var(--primary-color);
+  //--home-link-color: #B5838D;
+  //--home-link-hover-color:  var(--primary-color);
 
-  --button-color: #6D6875;
-  --button-alternate-color: #E5989B;
+  --button-color: #255C99;
+  --button-alternate-color: #7EA3CC;
+  // --button-color: #6D6875;
+  // --button-alternate-color: #E5989B;
 
   --post-link-color: #6D6875;
+  // --post-link-color: #6D6875;
 
 
   --nav-link-hover-bg: #111;
